@@ -1,0 +1,2 @@
+dependency-injector
+PyInstaller==4.3
